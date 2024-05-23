@@ -1,0 +1,19 @@
+.animal {
+    margin-bottom: 20px;
+}
+.progress-bar {
+    width: 100%;
+    background-color: #f3f3f3;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.progress {
+    height: 20px;
+    background-color: #4caf50;
+    text-align: center;
+    color: white;
+    line-height: 20px;
+}
+.animal-details .progress-bar {
+    margin-bottom: 10px;
+}
